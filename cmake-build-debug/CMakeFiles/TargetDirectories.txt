@@ -1,0 +1,3 @@
+/Users/liuyuncong/Public/money/work/qinrush/student-manage-project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/liuyuncong/Public/money/work/qinrush/student-manage-project/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/liuyuncong/Public/money/work/qinrush/student-manage-project/cmake-build-debug/CMakeFiles/student_manage_project.dir
